@@ -2,6 +2,7 @@
 
 ## First steps for Reed:
 Create script to grab text of recent posts from /r/wallstreetbets that contain a given stock ticker
+
 Potentially helpful resources:
 - https://developer.mozilla.org/en-US/docs/Web/HTML
 - https://github.com/reddit-archive/reddit/wiki/API

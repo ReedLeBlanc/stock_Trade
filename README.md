@@ -1,6 +1,5 @@
 # Playing with sentiment and stocks
 
-## First steps for Reed:
 Create script to grab text of recent posts from /r/wallstreetbets that contain a given stock ticker
 
 Potentially helpful resources:
